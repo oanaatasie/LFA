@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586107377 source:c:\users\diana\desktop\facultate\anul i, sem. 2\lfa\laborator\tema 2\tema 2_lfa\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<list>
+
